@@ -1,1 +1,1 @@
-# settings
+# Generic settings
