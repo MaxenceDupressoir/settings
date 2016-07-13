@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="Meetic - Dev" uuid="1ce46f4f-22d6-4371-8ef2-77b9fdef838f">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//192.168.56.201:1521/MSDV2.MEET</jdbc-url>
+    </data-source>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="npm" type="PLAIN_TEXT" />
+      <mapping pattern="200-get-socialevents-member.json" type="PLAIN_TEXT" />
+      <mapping ext="raml" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="Perl" />
+    </extensionMap>
+  </component>
+</application>
