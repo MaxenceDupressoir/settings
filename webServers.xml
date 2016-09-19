@@ -2,12 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="792f51e0-bbef-458f-9b86-99e294fc622e" name="dev_share" url="http://share.dating.dev">
-        <fileTransfer host="share.dating.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/mcorp/data/filer_home/mdupressoir/" accessType="SFTP" username="mdupressoir" keyPair="true">
+        <fileTransfer host="share.dating.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/mcorp/data/filer_home/mdupressoir/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcHSwz8BOGF76SDkJjPhPIR+AosxIyqyEFU1z7EmlnsAAx1a71lE0vAj/wmaC9EZHgGVGuY1ahGyxfAKbVoKHToDNnKtj4brmAd8ZNztPwSorTxpCBTZnwbq3haCsJ4kvKISy4ZVC+WDFmuxr1h/3mspfx+PES/hpJrcZ93nXRy1e</data>
   </component>
 </application>

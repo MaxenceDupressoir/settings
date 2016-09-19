@@ -1,0 +1,6 @@
+<code_scheme name="Default (2)">
+  <PHPCodeStyleSettings>
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+  </PHPCodeStyleSettings>
+</code_scheme>
