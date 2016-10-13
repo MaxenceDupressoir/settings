@@ -3,7 +3,6 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="dist" type="PHP" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="200-get-socialevents-member.json" type="PLAIN_TEXT" />
