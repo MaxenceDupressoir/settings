@@ -10,7 +10,6 @@
       <mapping pattern="mail" type="PLAIN_TEXT" />
       <mapping ext="raml" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Perl" />
     </extensionMap>
   </component>
