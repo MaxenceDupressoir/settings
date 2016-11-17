@@ -6,6 +6,7 @@
       <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="200-get-socialevents-member.json" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="parameters" type="PLAIN_TEXT" />
       <mapping pattern="mail" type="PLAIN_TEXT" />
       <mapping ext="raml" type="PLAIN_TEXT" />
