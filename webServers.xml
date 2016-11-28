@@ -6,11 +6,12 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAcLG7wtFBr2X1AHuWPaIkZl79sFMW7mwunZJWBnh6QBNurDg1H1xhQObgP8A5VQaHwNwjwKhoN6SmNQZ5Zd5wZn+CoF1iZrEfVzR1glP3OwXu18urxu4BVzkPKhKmyhlM03mMP7jHn2buYVvO95n+eSPN4/umRjEfHRcanYRO+hgE</data>
+    <data>AAAAcJixwGzyV79cpFAsSqDOX6P5tIlhDj87tm25HKYfL2cOU3JA/MOHNjSK+WB7bi0jhsccpGMwRmKyOrzJXd9qMwRBJsUXrAp9zeiGH0KgKoZ9HApPTq8c085ZgUF82avE2MdLXxXfzU88Kq1P4vdPBQmF4x/NABz8zykNSvDYPSeB</data>
   </component>
 </application>
