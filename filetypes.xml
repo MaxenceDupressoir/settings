@@ -2,15 +2,17 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="swf" type="ActionScript" />
+      <mapping ext="fla" type="ActionScript" />
       <mapping ext="dist" type="PHP" />
-      <mapping pattern="npm" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="200-get-socialevents-member.json" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="200-get-socialevents-member.json" type="PLAIN_TEXT" />
       <mapping pattern="parameters" type="PLAIN_TEXT" />
       <mapping pattern="mail" type="PLAIN_TEXT" />
-      <mapping ext="raml" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="raml" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Perl" />
     </extensionMap>
   </component>
