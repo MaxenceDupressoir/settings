@@ -5,6 +5,7 @@
       <mapping ext="swf" type="ActionScript" />
       <mapping ext="fla" type="ActionScript" />
       <mapping ext="dist" type="PHP" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="200-get-socialevents-member.json" type="PLAIN_TEXT" />
