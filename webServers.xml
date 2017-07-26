@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="53f5f29f-e275-469b-a30e-57537623d4a8" name="recette_share" url="http://share.dating.recette">
+        <fileTransfer host="share.dating.recette" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/mcorp/data/filer_home/mdupressoir/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
