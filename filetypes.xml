@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="swf" type="ActionScript" />
       <mapping ext="fla" type="ActionScript" />
+      <mapping ext="phpclass" type="PHP" />
       <mapping ext="dist" type="PHP" />
       <mapping pattern="Dockerfile_docker" type="PLAIN_TEXT" />
       <mapping pattern="api-poi" type="PLAIN_TEXT" />
