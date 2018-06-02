@@ -1,5 +1,5 @@
 <application>
-  <component name="dataSourceStorage" format="xml">
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="Meetic - Dev" uuid="1ce46f4f-22d6-4371-8ef2-77b9fdef838f">
       <driver-ref>oracle</driver-ref>
       <auto-commit>false</auto-commit>
