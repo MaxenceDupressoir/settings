@@ -4,8 +4,9 @@
     <extensionMap>
       <mapping ext="swf" type="ActionScript" />
       <mapping ext="fla" type="ActionScript" />
-      <mapping ext="phpclass" type="PHP" />
       <mapping ext="dist" type="PHP" />
+      <mapping ext="phpclass" type="PHP" />
+      <mapping pattern=".viminfo" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_docker" type="PLAIN_TEXT" />
       <mapping pattern="api-poi" type="PLAIN_TEXT" />
       <mapping pattern="npm" type="PLAIN_TEXT" />
@@ -14,8 +15,8 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="parameters" type="PLAIN_TEXT" />
       <mapping pattern="mail" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Perl" />
     </extensionMap>
   </component>
