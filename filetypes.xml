@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="swf" type="ActionScript" />
       <mapping ext="fla" type="ActionScript" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="dist" type="PHP" />
       <mapping ext="phpclass" type="PHP" />
       <mapping pattern=".viminfo" type="PLAIN_TEXT" />
