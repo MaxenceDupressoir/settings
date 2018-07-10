@@ -20,6 +20,7 @@
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Perl" />
+      <mapping ext="config" type="YAML" />
     </extensionMap>
   </component>
 </application>
