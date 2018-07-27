@@ -17,5 +17,6 @@
     <mask>*.yml.dist</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
