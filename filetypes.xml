@@ -5,6 +5,7 @@
       <mapping pattern=".config" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="saas" type="Sass" />
       <mapping pattern="cc_action" type="TypeScript" />
       <mapping pattern="LanguageDropDown" type="TypeScript JSX" />
     </extensionMap>
