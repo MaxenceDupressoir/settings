@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="apib" type="Markdown" />
       <mapping pattern=".config" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_prod" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
